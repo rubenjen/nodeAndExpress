@@ -1,11 +1,11 @@
 //Illustration 1
-// console.log("Task 1 starting...");
+console.log("Task 1 starting...");
 
-// setTimeout(() => {
-// 	console.log("Tast 2 executing...");
-// }, 0);
+setTimeout(() => {
+	console.log("Tast 2 executing...");
+}, 0);
 
-// console.log("Task 3 starting...");
+console.log("Task 3 starting...");
 
 // Illustration 2
 
